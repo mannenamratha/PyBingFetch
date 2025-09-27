@@ -1,0 +1,14 @@
+{
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "cSpell.words": [
+    "adlt",
+    "filterui",
+    "imap",
+    "iusc",
+    "mbot",
+    "murl",
+    "posixpath"
+  ],
+  "python.formatting.provider": "yapf"
+}
